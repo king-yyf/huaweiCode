@@ -1,4 +1,7 @@
+
+
 ## 背景
+
 大视频解决方案中，视频业务体验非常关键，视频内容如何有效传送到最终消费者是决定视频体验好坏的核心环节。
 
 ## 本次赛题基本描述
@@ -265,3 +268,17 @@
 
 ## 比赛结果
 
+初赛
+
+<div align="center"><img src="images/img4.jpeg" height="" /></div>
+
+
+
+复赛
+
+
+<div align="center"><img src="images/img3.jpeg" height="" /></div>
+
+## 初赛和复赛代码
+
+huawei code
