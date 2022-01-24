@@ -281,6 +281,10 @@
 
 <div align="center"><img src="images/img3.jpeg" height="" /></div>
 
+获奖证书
+
+<div align="center"><img src="images/img5.jpg" height="" /></div>
+
 ## 初赛和复赛代码
 
 huawei code
